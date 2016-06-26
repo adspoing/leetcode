@@ -8,7 +8,7 @@
  * }
  */
 
-/*递归*/
+
 public class Solution {
     public ArrayList<Integer> res=new ArrayList<Integer>();
     public List<Integer> inorderTraversal(TreeNode root) {
